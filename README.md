@@ -3,4 +3,5 @@
 ## Common Terms
 
 CIA (Confidentiality, Integrity, Availability) Triad
-![image](https://user-images.githubusercontent.com/79841341/126899240-52b027b8-ada6-49f4-87c1-ea02d160eed8.png)
+![CIA_Triad](https://user-images.githubusercontent.com/79841341/126899291-d8a9110d-1ef8-4eea-89bf-d51c673fa714.png)
+
