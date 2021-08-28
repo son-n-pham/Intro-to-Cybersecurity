@@ -59,6 +59,22 @@ Accountability
 - May use machine learning to detect anomalous behaviours
 - Carry out audits
 
+## Networking:
+
+### TCP/IP:
+- Application layer
+- Transport layer:
+  - TCP: 
+    - Rigorous acknowledgement between sender and receiver is established before sending data
+    - Includes flow control, error recovery, is used when large amounts of data need to be sent and timing is less critical.
+  - UDP:
+    - Lightweight, not need fixed channel between sender and receiver
+    - Used when data amount is piecemeal and needs to be transmitted quickly
+- Internet 
+
+![image](https://user-images.githubusercontent.com/79841341/131199158-e4a85277-73e1-4c49-8fce-97bf8a6a62d6.png)
+
+
 ## Lab 1:
 - Reinstall WSL2 and Ubuntu
 - Reinstall docker
